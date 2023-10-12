@@ -5,13 +5,16 @@ This repository contains an implementation of a Variational Autoencoder (VAE) ba
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Dataset](#dataset)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Citation](#citation)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+    - [Usage](#usage)
+  - [Results](#results)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Citation](#citation)
 
 ## Introduction
 
