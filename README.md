@@ -71,7 +71,6 @@ If you'd like to contribute or have any suggestions to this project, feel free t
 
 
 ## Citation
-If you use this code in your research, please cite the original GAN paper:
 ```bash
 @article{kingma2013auto,
   title={Auto-encoding variational bayes},
